@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Camerai</string>
+
+    <string name="acerca">Rigo Ramírez - @zoket_spider \n github.com/marzurk</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="instruccion">Coloca tu mano cerca del sensor de proximidad para activar la camara</string>
+    <string name="no_compatible">Su dispositivo no es compatible con esta <aplicación></aplicación></string>
+
+</resources>
